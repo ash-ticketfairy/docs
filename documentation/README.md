@@ -22,6 +22,7 @@ metaLinks: {}
 Welcome to the GitBook starter template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
 
 Sup there
+Now checking
 Testing history
 
 **Signed in as:** <code class="expression">visitor.claims.firstName</code>
