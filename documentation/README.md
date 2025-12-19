@@ -1,5 +1,4 @@
 ---
-if: visitor.claims.isLoggedIn
 icon: hand-wave
 layout:
   width: default
